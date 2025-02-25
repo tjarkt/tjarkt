@@ -2,8 +2,7 @@
 #### A computer science student from Germany
 
 🔭 I currently explore various tech paths to find where I truly belong  
-📚 I'm currently looking into the field of data analysis  
-🌱 I’m currently learning SQL
+🌱 I’m currently building my own IOS app
 
 [More About Me](https://github.com/tjarkt)
 
